@@ -31,7 +31,7 @@ Complete SQL script for a "Friends" database. Covers all basic SQL operations.
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 DONE BY
 
 **Rutuja** 😉
 
